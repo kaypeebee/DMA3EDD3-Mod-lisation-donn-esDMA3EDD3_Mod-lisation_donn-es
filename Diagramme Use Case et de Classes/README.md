@@ -1,3 +1,5 @@
+# Description du projet
+
 ## P8 Agi'Vert
 
 **Objectif : Concevoir une plateforme qui incite les utilisateurs à partager leurs projets écologiques, à s’inspirer des autres, à collaborer et à agir pour le développement durable.**
