@@ -11,6 +11,8 @@
     rel:childOf <#Simone> ;
     rel:colleagueOf [a rdf:Bag ; rdf:li <#Alice>, <#Pierre>] ;
     foaf:workInfoHomepage "Teacher"@en^^xsd:str .
+    foaf:shoesize 38^^xsd:int
+    foaf:pantssize 40^^xsd:int
 
 <#Arthur>
     a foaf:Person ;

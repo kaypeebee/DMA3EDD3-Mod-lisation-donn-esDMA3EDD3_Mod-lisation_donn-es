@@ -28,9 +28,7 @@
  <rdf:Property rdf:ID="http://xmlns.com/foaf/0.1/name">
  <subPropertyOf rdf:resource="#foaf:Person"/>
  <label xml:lang="en">has for name</label>
- <comment xml:lang="en">
- the proper noun a person uses to call another person
- </comment>
+ <comment xml:lang="en">the proper noun a person uses to call another person</comment>
  <label xml:lang="fr">a pour nom</label>
  <comment xml:lang="fr">le nom propre qu'une personne utilise pour appeler une autre personne</comment>
  </rdf:Property>
@@ -42,6 +40,24 @@
  <comment xml:lang="en">the profession a person has</comment>
  <label xml:lang="fr">a pour travail</label>
  <comment xml:lang="fr">l'emploi qu'une personne a</comment>
+ </rdf:Property>
+
+</rdf:Property>
+ <rdf:Property rdf:ID="http://xmlns.com/foaf/0.1/shoesize">
+ <subPropertyOf rdf:resource="#foaf:Person"/>
+ <label xml:lang="en">has for shoe size</label>
+ <comment xml:lang="en">the shoe size a person wears</comment>
+ <label xml:lang="fr">a pour taille de chaussure</label>
+ <comment xml:lang="fr">la taille qu'une personne chausse</comment>
+ </rdf:Property>
+
+</rdf:Property>
+ <rdf:Property rdf:ID="http://xmlns.com/foaf/0.1/pantssize">
+ <subPropertyOf rdf:resource="#foaf:Person"/>
+ <label xml:lang="en">has for pants size</label>
+ <comment xml:lang="en">the pants size a person wears</comment>
+ <label xml:lang="fr">a pour taille de pantalon</label>
+ <comment xml:lang="fr">la taille de pantalon qu'une personne a</comment>
  </rdf:Property>
 
  </rdf:Property>

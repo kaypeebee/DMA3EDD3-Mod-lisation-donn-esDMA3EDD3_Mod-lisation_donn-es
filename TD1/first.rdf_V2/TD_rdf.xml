@@ -19,6 +19,8 @@
     </rdf:Bag>
    </rel:friendOf> 
    <foaf:workInfoHomepage xml:lang='en'>Teacher</foaf:workInfoHomepage>
+   <foaf:shoesize>38</foaf:shoesize>
+   <foaf:pantssize xml:int>40</foaf:pantssize>
  </rdf:Description>
 
  <rdf : Description rdf : about="#Arthur">
